@@ -1,35 +1,35 @@
-baseurl = "ajayaa.github.io/"
+baseurl = "https://yourdomain.com/"
 languageCode = "en-us"
-title = "Ajaya's blog"
+title = "John Doe's blog"
 # Define how many pages appear per site
 paginate = 10
 # Enable comments powered by Disqus by entering your disqus shortname
-disqusShortname = "ajayaagithubio"
+disqusShortname = "spf13"
 theme = "hugo-minimalist-theme"
 
 [params]
-    site_author = "Ajaya Agrawal"
-    site_description = "The awesome blog of Ajaya."
-    location = "Bangalore"
+    site_author = "John Doe"
+    site_description = "The awesome blog of John Doe."
+    location = "Earth"
     # All paths are relative to the baseurl. Put your files
     # somewhere in the static folder.
-    avatar = "img/profile-image.jpg"
+    avatar = "img/profile-image.png"
     header_background = "img/desk.jpg"
-    header_title = "Jai Mata Di :)"
-    copyright = "Ajaya"
+    header_title = "Customizable header title"
+    copyright = "Powered by [Hugo](http://gohugo.io)."
 
     # Enable gogle analytics by entering your tracking code
-    google_analytics = "UA-54050077-1"
+    google_analytics = ""
 
 [social]
     # Add your social network accounts to the profile section on the left
     # by entering your username. The links to your account will be
     # create automatically.
-    twitter   = "aj_agr"
+    twitter   = "spf13"
     facebook  = ""
-    linkedin  = "ajayaa"
+    linkedin  = ""
     behance   = ""
     dribbble  = ""
     instagram = ""
-    github    = "ajayaa"
+    github    = "digitalcraftsman"
     gplus     = ""

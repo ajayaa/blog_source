@@ -1,10 +1,11 @@
-baseurl: "ajayaa.github.io/"
+baseurl: "https://ajayaa.github.io/"
+#baseurl: "localhost:1313/"
 languageCode:  "en-us"
 title:  "Ajaya's blog"
 # Define how many pages appear per site
 paginate:  10
 # Enable comments powered by Disqus by entering your disqus shortname
-disqusShortname: ajayaagithubio
+disqusShortname: "ajayaagithubio"
 theme: "hugo-minimalist-theme"
 
 params:
