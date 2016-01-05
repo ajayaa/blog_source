@@ -1,12 +1,12 @@
 ---
 date: 2015-01-14
-title: "Difference between cassandra insert and update statement"
+title: "Weird Cassandra upsert behaviour"
 excerpt: "cassandra-insert-update-ttl"
 tags: [cassandra, update, insert, ttl, inconsistent, time_to_live]
 type: post
 ---
 
-This post is about explaining one huge difference between cassandra update and insert and how things get hairy when you use ttl with a column.
+This post is about explaining one huge difference between cassandra upsert and insert and how things get hairy when you use ttl with a column.
 
 ### Table schema
 Here is the cql statement to create the table.
