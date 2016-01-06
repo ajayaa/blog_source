@@ -16,7 +16,7 @@ params:
     # somewhere in the static folder.
     avatar: "img/profile-image.jpg"
     header_background: "img/desk.jpg"
-    header_title: "Jai Mata Di :)"
+    header_title: "Living on the edge!"
     copyright: "Ajaya"
 
     # Enable gogle analytics by entering your tracking code
